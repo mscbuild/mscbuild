@@ -1,4 +1,6 @@
-<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">JR</a> 
+  
+
+<h1 align="center">Welcome, I'm <a href="https://daniilshat.ru/" target="_blank">JR</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Web Developer/Data Analysis</h3>
 
@@ -35,17 +37,17 @@
  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/22d93c139ac0551a09b0776e2b7557dceac5a2a44e8c2a1653526c6ce773b2ad/68747470733a2f2f6c6f676f686973746f72792e6e65742f77702d636f6e74656e742f75706c6f6164732f323032332f30352f506f7765722d42492d53796d626f6c2e706e67"><img src="https://camo.githubusercontent.com/22d93c139ac0551a09b0776e2b7557dceac5a2a44e8c2a1653526c6ce773b2ad/68747470733a2f2f6c6f676f686973746f72792e6e65742f77702d636f6e74656e742f75706c6f6164732f323032332f30352f506f7765722d42492d53796d626f6c2e706e67" alt="powerbi" width="60" height="40" data-canonical-src="https://logohistory.net/wp-content/uploads/2023/05/Power-BI-Symbol.png" style="max-width: 100%;"></a> 
 <a href="https://www.tableau.com/" rel="nofollow"> <img src="https://camo.githubusercontent.com/8f28f284f40a479b15f2d37475ac25d428a5c0f625249e33a56837e32777f10a/68747470733a2f2f6c6f676f732d776f726c642e6e65742f77702d636f6e74656e742f75706c6f6164732f323032312f31302f5461626c6561752d456d626c656d2e706e67" alt="powerbi" width="50" height="40" data-canonical-src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Emblem.png" style="max-width: 100%;"> </a>
 </div>
+ 
+   
+<br>
 
-    
- <br>
-
-🏆  Github Profile  
+### 🏆  Github Profile 
  
 [![trophy](https://github-profile-trophy.vercel.app/?username=mscbuild)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br>
 
-🔥 Streak stats
+### 🔥 Streak stats
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=mscbuild" alt="GitHub Streak" /></a>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mscbuild&layout=compact)](https://github.com/anuraghazra/github-readme-stats), [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mscbuild)](https://github.com/anuraghazra/github-readme-stats)
 [![JR GitHub stats](https://github-readme-stats.vercel.app/api?username=mscbuild)](https://github.com/mscbuild/github-readme-stats)
