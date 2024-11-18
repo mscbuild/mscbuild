@@ -45,7 +45,7 @@
 
 ### 🔥 Streak stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/?mscbuild=DenverCoder1)](https://git.io/streak-stats)</a>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mscbuild&layout=compact)](https://github.com/anuraghazra/github-readme-stats), [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mscbuild)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mscbuild&layout=compact)](https://github.com/anuraghazra/github-readme-stats), [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mscbuild)](https://github.com/anuraghazra/github-readme-stats)
 [![JR GitHub stats](https://github-readme-stats.vercel.app/api?username=mscbuild)](https://github.com/mscbuild/github-readme-stats)
 
  
