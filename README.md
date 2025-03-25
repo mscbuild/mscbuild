@@ -1,6 +1,6 @@
 <h1 align="center">Welcome, I'm <a href="https://daniilshat.ru/" target="_blank">JR</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Web Developer/Data Analysis</h3>
+<h3 align="center">Web Developer/Data Analysis/Software engineer</h3>
 
  <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
