@@ -43,23 +43,6 @@
 
 <br>
 
-### 🔥 Streak stats
-
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mscbuild&layout=compact)](https://github.com/anuraghazra/github-readme-stats), [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mscbuild)](https://github.com/anuraghazra/github-readme-stats)
-[![JR GitHub stats](https://github-readme-stats.vercel.app/api?username=mscbuild)](https://github.com/mscbuild/github-readme-stats)
-
- 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mscbuild&theme=solarized_dark)
-
- 
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mscbuildt&theme=solarized_dark)
-
- 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mscbuildt&theme=solarized_dark)
-
- 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mscbuild&theme=solarized_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mscbuild&theme=solarized_dark)
-
 ![](https://komarev.com/ghpvc/?username=mscbuild) 
 
 I'm an early 🐤
