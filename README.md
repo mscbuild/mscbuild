@@ -40,8 +40,10 @@
  <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="Rstudio" alt="AWS" width="40" height="40"/>
  <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="Rstudio" alt="AWS" width="40" height="40"/>
 </div>
+<br> 
  
-   
+
+<hr>  
 <br>
 
 ### 🏆  Github Profile 
