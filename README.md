@@ -39,6 +39,13 @@
 <a href="https://www.tableau.com/" rel="nofollow"> <img src="https://camo.githubusercontent.com/8f28f284f40a479b15f2d37475ac25d428a5c0f625249e33a56837e32777f10a/68747470733a2f2f6c6f676f732d776f726c642e6e65742f77702d636f6e74656e742f75706c6f6164732f323032312f31302f5461626c6561752d456d626c656d2e706e67" alt="powerbi" width="50" height="40" data-canonical-src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Emblem.png" style="max-width: 100%;"> </a>
  <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="Rstudio" alt="AWS" width="40" height="40"/>
  <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="Rstudio" alt="AWS" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bash.png" title="Bash" alt="Bash" width="40" height="40"/>
+ <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/selenium.png" title="Selenium" alt="Selenium" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/http.png" title="Http" alt="Http" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rest.png" title="Rest" alt="Rest" width="40" height="40"/>
+ <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" title="Github" alt="github" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c%23.png" title="C" alt="C" width="40" height="40"/>
+ <img src=" " title="Wix" alt="Wix" width="40" height="40"/>
 </div>
 <br> 
  
