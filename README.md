@@ -75,6 +75,8 @@ I'm an early 🐤
  <a href="https://www.kaggle.com/jurijsruko" rel="nofollow"><img src="https://camo.githubusercontent.com/470729f6bba5eb354e23611c0a0b82cc298d9eb8e34ea68119f74cf15b1125cd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4b4147474c452d3230424546463f267374796c653d666f722d7468652d6261646765266c6f676f3d6b6167676c65266c6f676f436f6c6f723d7768697465" alt="JR" data-canonical-src="https://img.shields.io/badge/KAGGLE-20BEFF?&amp;style=for-the-badge&amp;logo=kaggle&amp;logoColor=white" style="max-width: 100%;"></a>
  <a href="https://codepen.io/jrck" rel="nofollow"><img 
 src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" style="max-width: 100%;"></a>
+<a href="https://www.hackerrank.com/profile/arrmagedon55" rel="nofollow"><img 
+ src="https://img.shields.io/badge/-Hackerrank-2EC866?logo=HackerRank&logoColor=white" height="25" style="max-width: 100%;"></a>
 </p>
 <hr>
 <details>
