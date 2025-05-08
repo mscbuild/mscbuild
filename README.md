@@ -76,10 +76,10 @@ I'm an early 🐤
 src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" style="max-width: 100%;"></a>
 <a href="https://www.hackerrank.com/profile/arrmagedon55" rel="nofollow"><img 
  src="https://img.shields.io/badge/-Hackerrank-2EC866?logo=HackerRank&logoColor=white" height="25" style="max-width: 100%;"></a>
- <a href="https://playacademy.withgoogle.com/certificate" rel="nofollow"><img 
-src="https://img.shields.io/badge/Play_Store-%2300ACCE?logo=google-play&logoColor=white" height="25" style="max-width: 100%;"></a>
- <a href="https://google.com" rel="nofollow"><img 
+ <a href="[https://google.com](https://goo.su/BUIRF)" rel="nofollow"><img 
 src="https://img.shields.io/badge/Google-Connect-brightgreen?style=for-the-badge&labelColor=black&logo=google" height="25" style="max-width: 100%;"></a>
+  <a href="[https://google.com](https://public.tableau.com/app/profile/jurijsrck/vizzes)" rel="nofollow"><img 
+ src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" height="25" style="max-width: 100%;"></a>
 </p>
 <hr>
 <details>
