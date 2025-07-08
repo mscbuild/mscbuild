@@ -86,7 +86,7 @@ src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepe
 <a href="https://www.hackerrank.com/profile/arrmagedon55" rel="nofollow"><img 
  src="https://img.shields.io/badge/-Hackerrank-2EC866?logo=HackerRank&logoColor=white"   style="max-width: 100%;"></a>
  <a href="https://behance.net/bitkoins" rel="nofollow"><img 
-src="https://img.shields.io/badge/Behance-1769ff?logo=behance&logoCol"   style="max-width: 100%;"></a>
+src="https://img.shields.io/badge/Behance-1769ff?logo=behance&logoCol"  height=30 style="max-width: 100%;"></a>
   </p>
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/2722992d519a722218f896d5f5231d49f337aaff4514e78bd59ac935334e916a/68747470733a2f2f692e696d6775722e636f6d2f77617856496d762e706e67"><img src="https://camo.githubusercontent.com/2722992d519a722218f896d5f5231d49f337aaff4514e78bd59ac935334e916a/68747470733a2f2f692e696d6775722e636f6d2f77617856496d762e706e67" alt="" data-canonical-src="https://i.imgur.com/waxVImv.png" style="max-width: 100%;"></a>
 <details>
