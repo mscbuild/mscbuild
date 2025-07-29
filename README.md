@@ -51,7 +51,8 @@
  <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original.svg" title="Apache" alt="Apache" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain-wordmark.svg" title="Android" alt="Android" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/gitpod/gitpod-original-wordmark.svg" title="Gitpod" alt="Gitpod" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mocha/mocha-original.svg " title="Mocha" alt="Mocha" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-plain.svg" title="Next alt="Next width="40" height="40"/>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/mocha/mocha-original.svg " title="Mocha" alt="Mocha" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" title="jquery" alt="jquery" width="40" height="40"/>
   <img src="https://github.com/posymusic/aicon/blob/main/AI%20icon%20v1.0%20colored.png" title="AI" alt="AI" width="40" height="40"/>
 </div>
