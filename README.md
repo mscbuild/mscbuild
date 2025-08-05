@@ -55,7 +55,7 @@
  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node" alt="Node" width="40" height="40"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/mocha/mocha-original.svg " title="Mocha" alt="Mocha" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" title="jquery" alt="jquery" width="40" height="40"/>
- <img src="https://commons.wikimedia.org/wiki/File:.NET_Core_Logo.svg" title="jquery" alt="jquery" width="40" height="40"/>
+ <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" title="jquery" alt="jquery" width="40" height="40"/>
   <img src="https://github.com/posymusic/aicon/blob/main/AI%20icon%20v1.0%20colored.png" title="AI" alt="AI" width="40" height="40"/>
 </div>
 <br> 
