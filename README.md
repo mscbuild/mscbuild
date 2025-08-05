@@ -55,6 +55,7 @@
  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node" alt="Node" width="40" height="40"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/mocha/mocha-original.svg " title="Mocha" alt="Mocha" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" title="jquery" alt="jquery" width="40" height="40"/>
+ <img src="https://commons.wikimedia.org/wiki/File:.NET_Core_Logo.svg" title="jquery" alt="jquery" width="40" height="40"/>
   <img src="https://github.com/posymusic/aicon/blob/main/AI%20icon%20v1.0%20colored.png" title="AI" alt="AI" width="40" height="40"/>
 </div>
 <br> 
@@ -63,7 +64,7 @@
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/2722992d519a722218f896d5f5231d49f337aaff4514e78bd59ac935334e916a/68747470733a2f2f692e696d6775722e636f6d2f77617856496d762e706e67"><img src="https://camo.githubusercontent.com/2722992d519a722218f896d5f5231d49f337aaff4514e78bd59ac935334e916a/68747470733a2f2f692e696d6775722e636f6d2f77617856496d762e706e67" alt="" data-canonical-src="https://i.imgur.com/waxVImv.png" style="max-width: 100%;"></a>
 <br>
 
-### 🏆  Github Profile 
+### 🏆  Github Profil
  
 [![trophy](https://github-profile-trophy.vercel.app/?username=mscbuild)](https://github.com/ryo-ma/github-profile-trophy)
 
