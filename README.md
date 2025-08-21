@@ -5,7 +5,7 @@
 <li>🔥 UI/UX Designer</li>
 <li>💻 Self-taught Dev</li>
 <li>🌐 Digital enthusiast</li>
-<li>📝 Blogger</li>
+<li>📚 Constantly learning and exploring new data science techniques</li>
 <li>🚀 Open-source contributor</li>
 </ul>
 <p dir="auto">A passionate Web Developer & Designer from Latvia, creating digital experiences that matter. I create code to meet specific needs and share my experiences online.</p>
