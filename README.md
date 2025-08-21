@@ -14,7 +14,7 @@
 <li>🔭 Currently working on developing an online store for a cafe</li>
 <li>🌱 Learning: <strong>React</strong> | <strong>Taliwind</strong></li>
 <li>👯 Open to collaboration on web development projects, design and data analysist</li>
-<li>📧 Reach me at <a href="https://goo.su/6ZI8Rg"></a></li>
+<li>📧 Reach me at "<a href="https://goo.su/6ZI8Rg">Contact</a></li>
 <li>💬 Ask me about my blogs or tech topics</li>
 <li>😄 Pronouns: he/him</li>
 <li>⚡  Fun fact: I spend most of my time on my device!</li>
