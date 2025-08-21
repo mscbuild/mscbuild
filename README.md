@@ -1,12 +1,23 @@
-<h1 align="center">Welcome, I'm <a href="https://daniilshat.ru/" target="_blank">JR</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Web Developer/Data Analysis/Software developer</h3>
-
- <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
- 
- 
+<article class="markdown-body entry-content container-lg f5" itemprop="text"><div class="markdown-heading" dir="auto"><h1 align="center" class="heading-element" dir="auto">Hey, I'm Vijay! 👋</h1><a id="user-content-hey-im-vijay-" class="anchor" aria-label="Permalink: Hey, I'm Yuri! 👋" href="#hey-im-vijay-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<div class="markdown-heading" dir="auto"><h2 class="heading-element" dir="auto">About Me</h2><a id="user-content-about-me" class="anchor" aria-label="Permalink: About Me" href="#about-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li>🧑🏻‍💻 Full Stack Web Developer</li>
+<li>🎓 First-year MCA student</li>
+<li>💻 Self-taught Dev</li>
+<li>🎮 Gaming enthusiast</li>
+<li>📝 Blogger</li>
+<li>🚀 Open-source contributor</li>
+</ul>
+<p dir="auto">I'm improving my coding skills while studying. I create code to meet specific needs and share my gaming experiences online.</p>
+<div class="markdown-heading" dir="auto"><h2 class="heading-element" dir="auto">Highlights 🌟</h2><a id="user-content-highlights-" class="anchor" aria-label="Permalink: Highlights 🌟" href="#highlights-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li>🔭 Currently working on "<a href="https://github.com/itsvijaysingh/Alt-Text-Generator">Alt Text Generator</a>", "<a href="https://github.com/pfpfinder">PfpFinder.com</a>", "<a href="https://github.com/itsvijaysingh/Discord-Lookup-API">Discord-Lookup-API</a>"</li>
+<li>🌱 Learning: <strong>React</strong> | <strong>Taliwind</strong></li>
+<li>👯 Open to collaboration on "<a href="https://github.com/itsvijaysingh/Alt-Text-Generator">Alt Text Generator</a>" project</li>
+<li>📧 Reach me at <a href="mailto:hi@itsvj.me">hi@itsvj.me</a> (💬 Ask me about my blogs or tech topics)</li>
+<li>😄 Pronouns: he/him</li>
+<li>⚡  Fun fact: I spend most of my time on my device!</li>
+</ul>
  <div class="markdown-heading" dir="auto"><h2 align="center" class="heading-element" dir="auto">🔥 Languages &amp; Frameworks &amp; Tools &amp; Abilities 🔥</h2><a id="user-content--languages--frameworks--tools--abilities-" class="anchor" aria-label="Permalink: 🔥 Languages &amp; Frameworks &amp; Tools &amp; Abilities 🔥" href="#-languages--frameworks--tools--abilities-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
  <br>
 <div>
