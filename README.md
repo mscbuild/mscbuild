@@ -3,7 +3,6 @@
 <ul dir="auto">
 <li>🧑🏻‍💻 Full Stack Web Developer</li>
 <li>🔥 UI/UX Designer</li>
-<li>💻 Self-taught Dev</li>
 <li>🌐 Digital enthusiast</li>
 <li>📚 Constantly learning and exploring new data science techniques</li>
 <li>🛠️ I participate in projects on Github, contributing to the global development of developers</li>
