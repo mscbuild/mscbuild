@@ -6,6 +6,7 @@
 <li>💻 Self-taught Dev</li>
 <li>🌐 Digital enthusiast</li>
 <li>📚 Constantly learning and exploring new data science techniques</li>
+<li>🛠️ I participate in projects on Github, contributing to the global development of developers</li>
 <li>🚀 Open-source contributor</li>
 </ul>
 <p dir="auto">A passionate Web Developer & Designer from Latvia, creating digital experiences that matter. I create code to meet specific needs and share my experiences online.</p>
