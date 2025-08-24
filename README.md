@@ -123,8 +123,8 @@ src="https://img.shields.io/badge/Signal-3A76F0?style=for-the-badge&logo=signal&
  </details>
  <details> 
 <summary><b>⚡ Recent Activity</b></summary>
- <li>🎉 Merged PR</li>
- <li>🎉 Merged PR</li>
+ <li>🎉 Merged PR #5325</li>
+ <li>🎉 Merged PR #5355</li>
  <li>🔒 Monitoring 75 %</li>
 </details>
 <!---
