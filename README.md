@@ -115,9 +115,9 @@ src="https://img.shields.io/badge/Signal-3A76F0?style=for-the-badge&logo=signal&
 <details>
   <summary>⚡ GitHub Stats</summary>
   <a target="_blank" rel="noopener noreferrer nofollow"  
- <img src="https://github-readme-stats.vercel.app/api?username=mscbuild&theme=default&show_icons=true&hide_border=true&count_private=true" alt="mscbuild's GitHub Stats" </a>
+ <img src="https://github-readme-stats.vercel.app/api?username=mscbuild&theme=default&show_icons=true&hide_border=true&count_private=true" alt="mscbuild's GitHub Stats"  style="max-width: 100%;"></a>
   <a target="_blank" rel="noopener noreferrer nofollow" 
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mscbuild&theme=default&show_icons=true&hide_border=true&layout=compact" alt="mscbuild's GitHub Stats" </a>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mscbuild&theme=default&show_icons=true&hide_border=true&layout=compact" alt="mscbuild's GitHub Stats"  style="max-width: 100%;"></a>
   </details>
   <details> 
  
