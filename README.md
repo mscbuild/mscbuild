@@ -127,7 +127,9 @@ src="https://img.shields.io/badge/Signal-3A76F0?style=for-the-badge&logo=signal&
  <li>🎉 Merged PR "<a href="https://github.com/mscbuild">#6986</a>"</li>
  <li>🔒 Monitoring 75 %</li>
  <li>⭐ Starred "<a href="https://github.com/mscbuild/e-learning-free-courses/">e-learning-free-courses</a>"</li>
-  <li>⬆️ Pushed 1 commit(s)</li> 
+ <li>⬆️ Pushed 1 commit(s)</li> 
+ <li>🗣 Commented on</li>
+  <li>❗️ Closed issue</li>
 </details>
 <!---
 mscbuild/mscbuild is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
