@@ -122,6 +122,16 @@ src="https://img.shields.io/badge/Signal-3A76F0?style=for-the-badge&logo=signal&
 <a target="_blank" rel="noopener noreferrer nofollow" 
 </details> 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=mscbuild&hide_border=%D0%9B%D0%9E%D0%96%D0%AC&short_numbers=%D0%9B%D0%9E%D0%96%D0%AC" alt="GitHub Streak" /></a> 
+ <hr>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto">⚡ Recent Activity</h3><a id="user-content-zap-recent-activity" class="anchor" aria-label="Permalink: :zap: Recent Activity" href="#zap-recent-activity"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+
+<ol dir="auto">
+<li>🎉 Merged PR <a href="https://github.com/hoppscotch/hoppscotch/pull/5325" data-hovercard-type="pull_request" data-hovercard-url="/hoppscotch/hoppscotch/pull/5325/hovercard">#5325</a> in <a href="https://github.com/hoppscotch/hoppscotch">hoppscotch/hoppscotch</a></li>
+<li>🎉 Merged PR <a href="https://github.com/hoppscotch/hoppscotch/pull/5343" data-hovercard-type="pull_request" data-hovercard-url="/hoppscotch/hoppscotch/pull/5343/hovercard">#5343</a> in <a href="https://github.com/hoppscotch/hoppscotch">hoppscotch/hoppscotch</a></li>
+<li>🎉 Merged PR <a href="https://github.com/hoppscotch/hoppscotch/pull/5331" data-hovercard-type="pull_request" data-hovercard-url="/hoppscotch/hoppscotch/pull/5331/hovercard">#5331</a> in <a href="https://github.com/hoppscotch/hoppscotch">hoppscotch/hoppscotch</a></li>
+<li>🎉 Merged PR <a href="https://github.com/hoppscotch/hoppscotch/pull/5329" data-hovercard-type="pull_request" data-hovercard-url="/hoppscotch/hoppscotch/pull/5329/hovercard">#5329</a> in <a href="https://github.com/hoppscotch/hoppscotch">hoppscotch/hoppscotch</a></li>
+<li>🎉 Merged PR <a href="https://github.com/hoppscotch/hoppscotch/pull/5337" data-hovercard-type="pull_request" data-hovercard-url="/hoppscotch/hoppscotch/pull/5337/hovercard">#5337</a> in <a href="https://github.com/hoppscotch/hoppscotch">hoppscotch/hoppscotch</a></li>
+</ol>
 <!---
 mscbuild/mscbuild is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
