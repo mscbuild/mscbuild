@@ -72,8 +72,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" title="jquery" alt="jquery" width="40" height="40"/>
  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" title="jquery" alt="jquery" width="40" height="40"/>
   <img src="https://github.com/posymusic/aicon/blob/main/AI%20icon%20v1.0%20colored.png" title="AI" alt="AI" width="40" height="40"/>
- <img src="https://github.com/devicons/devicon/blob/master/icons/vercel/vercel-original-wordmark.svg" title="Vercel" alt="Vercel" width="45" height="45"/>
-  <img src="https://github.com/cncf/landscape/blob/master/hosted_logos/vercel.svg" title="Vercel" alt="Vercel" width="45" height="45"/>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/vercel/vercel-original-wordmark.svg" title="Vercel" alt="Vercel" width="60" height="60"/>
+ 
 </div>
 <br> 
  
