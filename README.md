@@ -124,9 +124,9 @@ src="https://img.shields.io/badge/Signal-3A76F0?style=for-the-badge&logo=signal&
  <details> 
 <summary><b>⚡ Recent Activity</b></summary>
   </details> 
- li>🎉 Merged PR</li>
- li>🎉 Merged PR</li>
- li>🎉 Merged PR</li>
+ <li>🎉 Merged PR</li>
+ <li>🎉 Merged PR</li>
+ <li>🎉 Merged PR</li>
 <!---
 mscbuild/mscbuild is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
