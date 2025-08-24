@@ -126,4 +126,4 @@ src="https://img.shields.io/badge/Signal-3A76F0?style=for-the-badge&logo=signal&
 mscbuild/mscbuild is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
- 
+ ![Метрики](https://metrics.lecoq.io/kattni?template=classic&languages= 1 &achievements= 1 ¬able = 1 &base.inthough= false & base.hireable = false &languages.limit= 8 & languages.threshold = 0 % 25 & languages.other= false & languages.colors =github&languages.sections=most-used&languages.inthough= false &languages.analysis.timeout = 15 & languages.categories = markup% 2 C% 20 programming&languages.recent.categories=markup% 2 C% 20 programming&languages.recent.load = 300 &languages.recent.days= 14 &achievements.threshold = C&achievements.secrets= true &achievements.display=detailed&achievements.limit= 0 ¬able.from=organization¬able.repositories= false ¬able.inthought= false ¬able.types=commit& config .timezone=America% 2 FNew% 20 York)
