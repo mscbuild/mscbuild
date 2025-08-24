@@ -118,14 +118,14 @@ src="https://img.shields.io/badge/Signal-3A76F0?style=for-the-badge&logo=signal&
 </details>
  <img src="https://github-readme-stats.vercel.app/api?username=mscbuild&theme=default&show_icons=true&hide_border=true&count_private=true" alt="mscbuild's GitHub Stats" /> 
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mscbuild&theme=default&show_icons=true&hide_border=true&layout=compact" alt="mscbuild's GitHub Stats" />
-  <br>
-   <details>
-  <summary><b>☄️ Github Streaks</b></summary>
-  <br>
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ea613d654098d5bfa73bfc1a1e39ad6cdf5ad7a7472ac504c1158b48dddf0298/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d69616d706176616e67616e64686926686964655f626f726465723d74727565"><img height="180em" src="https://camo.githubusercontent.com/ea613d654098d5bfa73bfc1a1e39ad6cdf5ad7a7472ac504c1158b48dddf0298/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d69616d706176616e67616e64686926686964655f626f726465723d74727565" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=mscbuild&amp;hide_border=true" style="max-width: 100%;"></a>
-</details>
+  
+   
 <!---
 mscbuild/mscbuild is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
- 
+ <details>
+  <summary><b>☄️ Github Streaks</b></summary>
+  <br>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ea613d654098d5bfa73bfc1a1e39ad6cdf5ad7a7472ac504c1158b48dddf0298/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d69616d706176616e67616e64686926686964655f626f726465723d74727565"><img height="180em" src="https://camo.githubusercontent.com/ea613d654098d5bfa73bfc1a1e39ad6cdf5ad7a7472ac504c1158b48dddf0298/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d69616d706176616e67616e64686926686964655f626f726465723d74727565" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=mscbuild&amp;hide_border=true" style="max-width: 100%;"></a>
+</details>
