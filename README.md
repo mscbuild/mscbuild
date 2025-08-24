@@ -126,4 +126,10 @@ src="https://img.shields.io/badge/Signal-3A76F0?style=for-the-badge&logo=signal&
 mscbuild/mscbuild is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-  
+name: Example
+uses: mscbuild/metrics@latest
+with:
+  filename: metrics.classic.svg
+  token: ${{ secrets.METRICS_TOKEN }}
+  base: header, repositories
+  plugin_lines: yes  
