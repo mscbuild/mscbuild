@@ -123,8 +123,6 @@ src="https://img.shields.io/badge/Signal-3A76F0?style=for-the-badge&logo=signal&
 </details> 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=mscbuild&hide_border=%D0%9B%D0%9E%D0%96%D0%AC&short_numbers=%D0%9B%D0%9E%D0%96%D0%AC" alt="GitHub Streak" /></a> 
  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=" alt="GitHub Streak" /></a>
-  <img src="https://camo.githubusercontent.com/af9e4b5854dc07d507d044f44e72e01162f543d4f18db929c7671cc70bfa340c/68747470733a2f2f6769746875622d636f6e7472696275746f722d73746174732e76657263656c2e6170702f6170693f757365726e616d653d4b6972616e31363839266c696d69743d32267468656d653d6e696768746f776c2673686f775f6f776e65723d7472756526636f6d62696e655f616c6c5f796561726c795f636f6e747269627574696f6e733d66616c73652662675f636f6c6f723d302c3030303030302c343431333530267469746c655f636f6c6f723d63353661393026746578745f636f6c6f723d666666666666" alt="Top Repo" data-canonical-src="https://github-contributor-stats.vercel.app/api?username=Kiran1689&amp;limit=2&amp;theme=nightowl&amp;show_owner=true&amp;combine_all_yearly_contributions=false&amp;bg_color=0,000000,441350&amp;title_color=c56a90&amp;text_color=ffffff" style="max-width: 100%;">
-         
 <!---
 mscbuild/mscbuild is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
