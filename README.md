@@ -126,7 +126,7 @@ src="https://img.shields.io/badge/Signal-3A76F0?style=for-the-badge&logo=signal&
  <li>🎉 Merged PR "<a href="https://github.com/mscbuild">#5590</a>"</li> 
  <li>🎉 Merged PR "<a href="https://github.com/mscbuild">#6986</a>"</li>
  <li>🔒 Monitoring 75 %</li>
- <li>⭐ Starred "<a href="https://github.com/mscbuild">Readme</a>"</li>
+ <li>⭐ Starred "<a href="https://github.com/mscbuild/e-learning-free-courses/">e-learning-free-courses</a>"</li>
   <li>⬆️ Pushed 1 commit(s)</li> 
 </details>
 <!---
