@@ -82,7 +82,7 @@
 
 ### 🏆  Github Profil
  
-[![trophy](https://github-profile-trophy.vercel.app/?username=mscbuild)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-trophies.vercel.app/?username=mscbuild)](https://github.com/mscbuild/github-trophies)
 
 <br>
 
