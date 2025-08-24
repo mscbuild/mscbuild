@@ -1,0 +1,40 @@
+name: GitHub - Activity - Readme
+description: Updates README with the recent GitHub activity of a user
+author: mscbuild
+
+inputs:
+  GH_USERNAME:
+    description: "Your GitHub username"
+    default: ${{ github.repository_owner }}
+    required: false
+  COMMIT_NAME:
+    description: "Name of the committer"
+    default: "github-actions[bot]"
+    required: false
+  COMMIT_EMAIL:
+    description: "Email of the committer"
+    default: "41898282+github-actions[bot]@users.noreply.github.com"
+    required: false
+  COMMIT_MSG:
+    description: "Commit message used while committing to the repo"
+    default: ":zap: Update README with the recent activity"
+    required: false
+  MAX_LINES:
+    description: "The maximum number of lines populated in your readme file"
+    default: 5
+    required: false
+  TARGET_FILE:
+    description: "The file location to write changes to"
+    default: "README.md"
+    required: false
+  EMPTY_COMMIT_MSG:
+    description: "Commit message used when there are no updates"
+    default: ":memo: empty commit to keep workflow active after 60 days of no activity"
+    required: false
+branding:
+  color: yellow
+  icon: activity
+
+runs:
+  using: node20
+  main: dist/index.js
