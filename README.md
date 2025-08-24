@@ -122,7 +122,9 @@ src="https://img.shields.io/badge/Signal-3A76F0?style=for-the-badge&logo=signal&
 <a target="_blank" rel="noopener noreferrer nofollow" 
 </details> 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=mscbuild&hide_border=%D0%9B%D0%9E%D0%96%D0%AC&short_numbers=%D0%9B%D0%9E%D0%96%D0%AC" alt="GitHub Streak" /></a> 
- ![Contributions](https://git-hub-stats-card-generator.vercel.app/api/svg?username=mscbuild&type=contributions)
+ <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=" alt="GitHub Streak" /></a>
+  <img src="https://camo.githubusercontent.com/e267a876b68540c9f9d8ce4f4f2e37919ace06a94f511601cf8aa408c4f09e48/68747470733a2f2f6170692e7661756e742e6465762f76312f6769746875622f656e7469746965732f4b6972616e313638392f616368696576656d656e74733f666f726d61743d737667266c696d69743d36" width="400" data-canonical-src="https://api.vaunt.dev/v1/github/entities/mscbuild/achievements?format=svg&amp;limit=6" style="max-width: 100%;">
+  </a>
 <!---
 mscbuild/mscbuild is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
