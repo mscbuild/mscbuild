@@ -113,17 +113,15 @@ src="https://img.shields.io/badge/Signal-3A76F0?style=for-the-badge&logo=signal&
   </p>
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/2722992d519a722218f896d5f5231d49f337aaff4514e78bd59ac935334e916a/68747470733a2f2f692e696d6775722e636f6d2f77617856496d762e706e67"><img src="https://camo.githubusercontent.com/2722992d519a722218f896d5f5231d49f337aaff4514e78bd59ac935334e916a/68747470733a2f2f692e696d6775722e636f6d2f77617856496d762e706e67" alt="" data-canonical-src="https://i.imgur.com/waxVImv.png" style="max-width: 100%;"></a>
 <details>
-  <summary><b>⚡ Github Stats</b></summary>
-  <img src="https://github-readme-stats.vercel.app/api?username=mscbuild&theme=default&show_icons=true&hide_border=true&count_private=true" alt="mscbuild's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mscbuild&theme=default&show_icons=true&hide_border=true&layout=compact" alt="mscbuild's Top Languages" />
+<summary><b>⚡ Github Stats</b></summary>
+<img src="https://github-readme-stats.vercel.app/api?username=mscbuild&theme=default&show_icons=true&hide_border=true&count_private=true" alt="mscbuild's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mscbuild&theme=default&show_icons=true&hide_border=true&layout=compact" alt="mscbuild's Top Languages" />
 </details>
-
-  <details> 
- 
- <summary><b>☄️ Github Streaks</b></summary>
- <a target="_blank" rel="noopener noreferrer nofollow" 
-  </details> 
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=mscbuild&hide_border=%D0%9B%D0%9E%D0%96%D0%AC&short_numbers=%D0%9B%D0%9E%D0%96%D0%AC" alt="GitHub Streak" /></a> 
+<details> 
+<summary><b>☄️ Github Streaks</b></summary>
+<a target="_blank" rel="noopener noreferrer nofollow" 
+</details> 
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=mscbuild&hide_border=%D0%9B%D0%9E%D0%96%D0%AC&short_numbers=%D0%9B%D0%9E%D0%96%D0%AC" alt="GitHub Streak" /></a> 
 <!---
 mscbuild/mscbuild is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
