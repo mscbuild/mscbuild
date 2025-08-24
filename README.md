@@ -119,9 +119,8 @@ src="https://img.shields.io/badge/Signal-3A76F0?style=for-the-badge&logo=signal&
 </details>
 <details> 
 <summary><b>☄️ Github Streaks</b></summary>
-<a target="_blank" rel="noopener noreferrer nofollow" 
-</details> 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=mscbuild&hide_border=%D0%9B%D0%9E%D0%96%D0%AC&short_numbers=%D0%9B%D0%9E%D0%96%D0%AC" alt="GitHub Streak" /></a> 
+ <img src="https://github-readme-streak-stats.herokuapp.com?user=mscbuild&hide_border=%D0%9B%D0%9E%D0%96%D0%AC&short_numbers=%D0%9B%D0%9E%D0%96%D0%AC" alt="GitHub Streak" /></a> 
+ <details> 
  <details> 
 <summary><b>⚡ Recent Activity</b></summary>
 <a target="_blank" rel="noopener noreferrer nofollow" 
