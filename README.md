@@ -126,7 +126,7 @@ src="https://img.shields.io/badge/Signal-3A76F0?style=for-the-badge&logo=signal&
   <br>
   <!--START_SECTION:activity-->
  <li>🎉 Merged PR "<a href="https://github.com/mscbuild">#5590</a>"</li> 
- <li>🚦 Availability Check"<a href="https://github.com/mscbuild">#6986</a>"</li>
+ <li>🚦 Availability Check"<a href="https://github.com/mscbuild">#6986🟢</a>"</li>
  <li>🔒 Monitoring "<a href="#">75 %</a>"</li>
  <li>⭐ Starred "<a href="https://github.com/mscbuild/e-learning-free-courses/">e-learning-free-courses</a>"</li>
  <li>📦 "<a href="#"> Used 292.3 kB in GitHub's Storage</a>"</li>
