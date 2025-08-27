@@ -92,8 +92,6 @@
 
  
 [![trophy](https://github-trophies.vercel.app/?username=mscbuild)](https://github.com/mscbuild/github-trophies)
-
-<github-badge user="mscbuild" badge="octo"></github-badge>
 <br>
 
 ![](https://komarev.com/ghpvc/?username=mscbuild) 
