@@ -88,7 +88,7 @@
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/2722992d519a722218f896d5f5231d49f337aaff4514e78bd59ac935334e916a/68747470733a2f2f692e696d6775722e636f6d2f77617856496d762e706e67"><img src="https://camo.githubusercontent.com/2722992d519a722218f896d5f5231d49f337aaff4514e78bd59ac935334e916a/68747470733a2f2f692e696d6775722e636f6d2f77617856496d762e706e67" alt="" data-canonical-src="https://i.imgur.com/waxVImv.png" style="max-width: 100%;"></a>
 <br>
 
-### 🏆  Github Profil <img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/119adff7-ecbe-4b0a-b0a2-c2985a1a2bd7" />
+### 🏆  Github Profil <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/119adff7-ecbe-4b0a-b0a2-c2985a1a2bd7" />
 
  
 [![trophy](https://github-trophies.vercel.app/?username=mscbuild)](https://github.com/mscbuild/github-trophies)
