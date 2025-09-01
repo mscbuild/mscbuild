@@ -98,7 +98,7 @@
 
 ![](https://komarev.com/ghpvc/?username=mscbuild) 
 </a>
-<a href="https://github.com/mscbuild"><img src="https://img.shields.io/badge/AI-Code%20Assist-EB9FDA">title="Mocha" alt="Mocha"</a>
+<a href="https://github.com/mscbuild"><img src="https://img.shields.io/badge/AI-Code%20Assist-EB9FDA"></a>
 <br>
 I'm an early 🐤
 
