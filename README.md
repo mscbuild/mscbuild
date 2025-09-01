@@ -100,7 +100,7 @@
 </a>
 <a href="https://github.com/mscbuild"><img src="https://img.shields.io/badge/AI-Code%20Assist-EB9FDA"></a>
 <br>
-# I'm an early 🐤
+**I'm an early** 🐤
 
 🌞 Morning    95 commits     ███████░░░░░░░░░░░░░░░░░░   30.55% 
 🌆 Daytime    78 commits     ██████░░░░░░░░░░░░░░░░░░░   25.08% 
