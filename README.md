@@ -16,7 +16,7 @@
 <li>🔭 I’m currently working on something cool 😉</li>
 <li>🌱 Learning: <strong>React</strong> | <strong>Tailwind</strong></li>
 <li>👯 Open to collaboration on web development projects, design and data analysist</li>
-<li>📧 Reach me at "<a href="https://goo.su/6ZI8Rg">Contact</a>"</li>
+<li>📧 Reach me at "<a href="https://goo.su/Ggk7f">Contact</a>"</li>
 <li>👨‍💻 Read more about my projects at "<a href="https://github.com/mscbuild">GitHub</a>"</li>
 <li>💬 Ask me about my blogs or tech topics</li>
 <li>⚡  Fun fact: I spend most of my time on my device!</li>
