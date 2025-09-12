@@ -122,7 +122,7 @@
 </a>
 &nbsp;
 <!-- Power BI -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Power_BI_logo.svg/1200px-Power_BI_logo.svg.png" title="Power BI" alt="Power BI" width="40" height="40" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Power_BI_logo.svg" title="Power BI" alt="Power BI" width="40" height="40" />
 </a>
 &nbsp;
 <!-- Tableau -->
