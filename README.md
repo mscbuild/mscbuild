@@ -1,8 +1,8 @@
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
- 
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="keywords" content="Оформление профиля, github, github actions, как красиво оформить профиль, социальные сети, коммиты, репозиторий, карьера в программировании, как получить работу">
     
 </head>
 <body>
