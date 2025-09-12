@@ -192,16 +192,15 @@
 
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/2722992d519a722218f896d5f5231d49f337aaff4514e78bd59ac935334e916a/68747470733a2f2f692e696d6775722e636f6d2f77617856496d762e706e67"><img src="https://camo.githubusercontent.com/2722992d519a722218f896d5f5231d49f337aaff4514e78bd59ac935334e916a/68747470733a2f2f692e696d6775722e636f6d2f77617856496d762e706e67" alt="" data-canonical-src="https://i.imgur.com/waxVImv.png" style="max-width: 100%;"> 
 <br>
-
-### 🏆  Github Profil  
-
- 
-[![trophy](https://github-trophies.vercel.app/?username=mscbuild)](https://github.com/mscbuild/github-trophies)
-
-<br>
-
-![](https://komarev.com/ghpvc/?username=mscbuild) 
-</a>
+<h1>🏆 GitHub Profile</h1>
+<!-- Trophy Badge -->
+ <a href="https://github.com/mscbuild" target="_blank">
+ <img src="https://github-trophies.vercel.app/?username=mscbuild" alt="GitHub Trophies for mscbuild" class="badge">
+  </a>
+<!-- Profile Views Counter -->
+  <a href="https://github.com/mscbuild" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=mscbuild" alt="Profile views for mscbuild" class="badge">
+  </a>
 <a href="https://github.com/mscbuild"><img src="https://img.shields.io/badge/AI-Code%20Assist-EB9FDA"></a>
 <br>
 **I'm an early** 🐤
