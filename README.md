@@ -119,11 +119,11 @@
 &nbsp;
 <!-- Power BI -->
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" title="Power BI" alt="Power BI" width="40" height="40" />
-</a>
+ 
 &nbsp;
 <!-- Tableau -->
 <img src="https://cdnl.tblsft.com/sites/default/files/pages/tableau_cmyk_2015.png" title="Tableau" alt="Tableau" width="40" height="40" />
-</a>
+ 
 &nbsp;
 <!-- Markdown -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" title="Markdown" alt="Markdown" width="40" height="40" />
