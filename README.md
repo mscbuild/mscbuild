@@ -117,19 +117,14 @@
 <!-- WooCommerce -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/woocommerce/woocommerce-original-wordmark.svg" title="WooCommerce" alt="WooCommerce" width="40" height="40" />
 &nbsp;
-<!-- Excel -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Microsoft_Excel_2019_logo.svg" title="Excel" alt="Excel" width="40" height="40" />
-</a>
-&nbsp;
 <!-- Power BI -->
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" title="Power BI" alt="Power BI" width="40" height="40" />
 </a>
 &nbsp;
 <!-- Tableau -->
-<img src="https://cdnl.tblsft.com/sites/default/files/pages/tableau_cmyk_2015.png" title="Tableau" alt="Tableau" width="60" height="60" />
+<img src="https://cdnl.tblsft.com/sites/default/files/pages/tableau_cmyk_2015.png" title="Tableau" alt="Tableau" width="70" height="70" />
 </a>
 &nbsp;
-
 <!-- Markdown -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" title="Markdown" alt="Markdown" width="40" height="40" />
 &nbsp;
