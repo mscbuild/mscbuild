@@ -256,8 +256,8 @@ src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postma
 </details>
  <!-- Footer -->
   <footer>
-    🌐 Powered by <a href="https://github-trophies.vercel.app" target="_blank" style="color: #3498db;">GitHub Trophies</a> & 
-    <a href="https://komarev.com/ghpvc/" target="_blank" style="color: #3498db;">Profile View Counter</a><br>
+    🌐 Powered by <a href="https://mscbuild.github.io/mscbuild/" target="_blank" style="color: #3498db;">@Mscbuild</a> & 
+    <a href="https://mscbuild.github.io/mscbuild/" target="_blank" style="color: #3498db;">Profile View</a><br>
     © 2025 mscbuild — This profile is optimized for GitHub README.
   </footer>
 </body>
