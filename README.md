@@ -117,20 +117,16 @@
 <!-- WooCommerce -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/woocommerce/woocommerce-original-wordmark.svg" title="WooCommerce" alt="WooCommerce" width="40" height="40" />
 &nbsp;
-
 <!-- Excel -->
-<a href="https://www.microsoft.com/en-in/microsoft-365/excel" rel="nofollow">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Microsoft_Excel_2019_logo.svg" title="Excel" alt="Excel" width="40" height="40" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Microsoft_Excel_2019_logo.svg" title="Excel" alt="Excel" width="40" height="40" />
 </a>
 &nbsp;
 <!-- Power BI -->
-<a href="https://powerbi.microsoft.com/" target="_blank" rel="noopener noreferrer nofollow">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Power_BI_logo.svg/1200px-Power_BI_logo.svg.png" title="Power BI" alt="Power BI" width="40" height="40" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Power_BI_logo.svg/1200px-Power_BI_logo.svg.png" title="Power BI" alt="Power BI" width="40" height="40" />
 </a>
 &nbsp;
 <!-- Tableau -->
-<a href="https://www.tableau.com/" rel="nofollow">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Tableau_Logo.svg" title="Tableau" alt="Tableau" width="40" height="40" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Tableau_Logo.svg" title="Tableau" alt="Tableau" width="40" height="40" />
 </a>
 &nbsp;
 
