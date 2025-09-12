@@ -5,7 +5,6 @@
 <meta name="keywords" content="Latvia, github, github actions, awesome, creative, designer, mscbuild, developer,  как красиво оформить профиль, социальные сети, коммиты, репозиторий, карьера в программировании">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta http-equiv="ClearType" content="true" />
-<title>Mscbuild Devops</title>
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" />
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent"/>    
 </head>
