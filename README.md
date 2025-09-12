@@ -197,6 +197,7 @@
  <a href="https://github.com/mscbuild" target="_blank">
  <img src="https://github-trophies.vercel.app/?username=mscbuild" alt="GitHub Trophies for mscbuild" class="badge">
   </a>
+  <br>
 <!-- Profile Views Counter -->
   <a href="https://github.com/mscbuild" target="_blank">
     <img src="https://komarev.com/ghpvc/?username=mscbuild" alt="Profile views for mscbuild" class="badge">
