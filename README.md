@@ -254,7 +254,12 @@ src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postma
 <summary><b>⚡ Metrics</b></summary>
    <img src="https://camo.githubusercontent.com/a8202dfc8678c0758a92619f87331d3a1e5d929485f95083b8a0b0f3835ac0bf/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f73756e3032323553554e2f73756e3032323553554e2f6769746875622d6d6574726963732f7265616374696f6e732e737667" alt="GitHub Metrics" /></a> 
 </details>
- 
+ <!-- Footer -->
+  <footer>
+    🌐 Powered by <a href="https://github-trophies.vercel.app" target="_blank" style="color: #3498db;">GitHub Trophies</a> & 
+    <a href="https://komarev.com/ghpvc/" target="_blank" style="color: #3498db;">Profile View Counter</a><br>
+    © 2025 mscbuild — This profile is optimized for GitHub README.
+  </footer>
 </body>
 </html>
 <!---
