@@ -42,56 +42,160 @@
  <div class="markdown-heading" dir="auto"><h2 align="center" class="heading-element" dir="auto">🔥 Languages &amp; Frameworks &amp; Tools &amp; Abilities 🔥</h2><a id="user-content--languages--frameworks--tools--abilities-" class="anchor" aria-label="Permalink: 🔥 Languages &amp; Frameworks &amp; Tools &amp; Abilities 🔥" href="#-languages--frameworks--tools--abilities-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
  <br>
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg " title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/behance/behance-original.svg" title="Behance" alt="Behance" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original-wordmark.svg" title="Kaggle" alt="Kaggle" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootsrap" alt="Redux " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva"  alt="Canva" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="Wordpress" **alt="Git" width="40" height="40"/>
- <img src="https://github.com/devicons/devicon/blob/master/icons/cloudflare/cloudflare-original-wordmark.svg" title="cloudflare" **alt="cloudflare" width="40" height="40"/>
- <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="Vscode" **alt="Vscode" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="Postgresql" **alt="Postgresql" width="40" height="40"/>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="Nginx" **alt="Nginx" width="40" height="40"/>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" title="Mongodb" **alt="Mongodb" width="40" height="40"/>
- <img src="https://github.com/devicons/devicon/blob/master/icons/google/google-original-wordmark.svg" title="google" **alt="google" width="40" height="40"/>
- <img src="https://github.com/devicons/devicon/blob/master/icons/woocommerce/woocommerce-original-wordmark.svg" title="Woocommerce" **alt="Woocommerce" width="40" height="40"/>
- <a href="https://www.microsoft.com/en-in/microsoft-365/excel" rel="nofollow"> <img src="https://camo.githubusercontent.com/d0dd578e623c24f72c1d4857dd927428729cd326cfc7532523ee3e5eae20fbd4/68747470733a2f2f7374617469632e7665637465657a792e636f6d2f73797374656d2f7265736f75726365732f70726576696577732f3032322f3130312f3033302f6f726967696e616c2f6d6963726f736f66742d657863656c2d6c6f676f2d7472616e73706172656e742d667265652d706e672e706e67" title="Excel" alt="Excel" width="40" height="40" data-canonical-src="https://static.vecteezy.com/system/resources/previews/022/101/030/original/microsoft-excel-logo-transparent-free-png.png" style="max-width: 100%;"> </a>
- <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/22d93c139ac0551a09b0776e2b7557dceac5a2a44e8c2a1653526c6ce773b2ad/68747470733a2f2f6c6f676f686973746f72792e6e65742f77702d636f6e74656e742f75706c6f6164732f323032332f30352f506f7765722d42492d53796d626f6c2e706e67"><img src="https://camo.githubusercontent.com/22d93c139ac0551a09b0776e2b7557dceac5a2a44e8c2a1653526c6ce773b2ad/68747470733a2f2f6c6f676f686973746f72792e6e65742f77702d636f6e74656e742f75706c6f6164732f323032332f30352f506f7765722d42492d53796d626f6c2e706e67"  title="PowerBI" alt="PowerBI" width="60" height="40" data-canonical-src="https://logohistory.net/wp-content/uploads/2023/05/Power-BI-Symbol.png" style="max-width: 100%;"></a> 
-<a href="https://www.tableau.com/" rel="nofollow"> <img src="https://camo.githubusercontent.com/8f28f284f40a479b15f2d37475ac25d428a5c0f625249e33a56837e32777f10a/68747470733a2f2f6c6f676f732d776f726c642e6e65742f77702d636f6e74656e742f75706c6f6164732f323032312f31302f5461626c6561752d456d626c656d2e706e67" title="Tableua" alt="Tableua" width="50" height="40" data-canonical-src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Emblem.png" style="max-width: 100%;"> </a>
- <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="Markdown" alt="Markdown" width="40" height="40"/>
- <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="Rstudio" alt="Rstudio" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bash.png" title="Bash" alt="Bash" width="40" height="40"/>
- <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/selenium.png" title="Selenium" alt="Selenium" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/http.png" title="Http" alt="Http" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rest.png" title="Rest" alt="Rest" width="40" height="40"/>
- <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" title="Github" alt="Github" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c%23.png" title="C" alt="C" width="40" height="40"/>
- <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/wix.png" title="Wix" alt="Wix" width="40" height="40"/>
- <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/windows.png" title="Windows" alt="Windows" width="40" height="40"/>
- <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original.svg" title="Apache" alt="Apache" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain-wordmark.svg" title="Android" alt="Android" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gitpod/gitpod-original-wordmark.svg" title="Gitpod" alt="Gitpod" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-plain.svg" title="Next" alt="Next" width="40" height="40"/>
- <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node" alt="Node" width="40" height="40"/>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/mocha/mocha-original.svg " title="Mocha" alt="Mocha" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" title="jquery" alt="jquery" width="40" height="40"/>
- <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" title="jquery" alt="jquery" width="40" height="40"/>
-  <img src="https://github.com/posymusic/aicon/blob/main/AI%20icon%20v1.0%20colored.png" title="AI" alt="AI" width="40" height="40"/>
- <img src="https://github.com/devicons/devicon/blob/master/icons/vercel/vercel-original-wordmark.svg" title="Vercel" alt="Vercel" width="60" height="60"/>
- <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="40" height="40"/>
- 
+<!-- Java -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40" />
+&nbsp;
+<!-- React -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40" />
+&nbsp;
+<!-- Figma -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40" />
+&nbsp;
+<!-- Behance -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/behance/behance-original.svg" title="Behance" alt="Behance" width="40" height="40" />
+&nbsp;
+<!-- Kaggle -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kaggle/kaggle-original-wordmark.svg" title="Kaggle" alt="Kaggle" width="40" height="40" />
+&nbsp;
+<!-- Flutter -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40" />
+&nbsp;
+<!-- Bootstrap -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40" />
+&nbsp;
+<!-- CSS3 -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS3" width="40" height="40" />
+&nbsp;
+<!-- HTML5 -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40" />
+&nbsp;
+<!-- JavaScript -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40" />
+&nbsp;
+<!-- Firebase -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40" />
+&nbsp;
+<!-- Canva -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" title="Canva" alt="Canva" width="40" height="40" />
+&nbsp;
+<!-- MySQL -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40" />
+&nbsp;
+<!-- Python -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40" />
+&nbsp;
+<!-- Pandas -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40" />
+&nbsp;
+<!-- AWS -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40" />
+&nbsp;
+<!-- Git -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40" />
+&nbsp;
+<!-- WordPress -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" title="WordPress" alt="WordPress" width="40" height="40" />
+&nbsp;
+<!-- Cloudflare -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cloudflare/cloudflare-original-wordmark.svg" title="Cloudflare" alt="Cloudflare" width="40" height="40" />
+&nbsp;
+<!-- VSCode -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode" alt="VSCode" width="40" height="40" />
+&nbsp;
+<!-- PostgreSQL -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40" />
+&nbsp;
+<!-- Nginx -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" title="Nginx" alt="Nginx" width="40" height="40" />
+&nbsp;
+<!-- MongoDB -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40" />
+&nbsp;
+<!-- Google -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original-wordmark.svg" title="Google" alt="Google" width="40" height="40" />
+&nbsp;
+<!-- WooCommerce -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/woocommerce/woocommerce-original-wordmark.svg" title="WooCommerce" alt="WooCommerce" width="40" height="40" />
+&nbsp;
+
+<!-- Excel -->
+<a href="https://www.microsoft.com/en-in/microsoft-365/excel" rel="nofollow">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Microsoft_Excel_2019_logo.svg" title="Excel" alt="Excel" width="40" height="40" />
+</a>
+&nbsp;
+<!-- Power BI -->
+<a href="https://powerbi.microsoft.com/" target="_blank" rel="noopener noreferrer nofollow">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Power_BI_logo.svg/1200px-Power_BI_logo.svg.png" title="Power BI" alt="Power BI" width="40" height="40" />
+</a>
+&nbsp;
+<!-- Tableau -->
+<a href="https://www.tableau.com/" rel="nofollow">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Tableau_Logo.svg" title="Tableau" alt="Tableau" width="40" height="40" />
+</a>
+&nbsp;
+
+<!-- Markdown -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" title="Markdown" alt="Markdown" width="40" height="40" />
+&nbsp;
+<!-- R -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40" />
+&nbsp;
+<!-- Bash -->
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/bash.png" title="Bash" alt="Bash" width="40" height="40" />
+&nbsp;
+<!-- Selenium -->
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/selenium.png" title="Selenium" alt="Selenium" width="40" height="40" />
+&nbsp;
+<!-- HTTP -->
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/http.png" title="HTTP" alt="HTTP" width="40" height="40" />
+&nbsp;
+<!-- REST -->
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/rest.png" title="REST" alt="REST" width="40" height="40" />
+&nbsp;
+<!-- GitHub -->
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/github.png" title="GitHub" alt="GitHub" width="40" height="40" />
+&nbsp;
+<!-- C# -->
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/c%23.png" title="C#" alt="C#" width="40" height="40" />
+&nbsp;
+<!-- Wix -->
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/wix.png" title="Wix" alt="Wix" width="40" height="40" />
+&nbsp;
+<!-- Windows -->
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/windows.png" title="Windows" alt="Windows" width="40" height="40" />
+&nbsp;
+<!-- Apache -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" title="Apache" alt="Apache" width="40" height="40" />
+&nbsp;
+<!-- Android -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain-wordmark.svg" title="Android" alt="Android" width="40" height="40" />
+&nbsp;
+<!-- Gitpod -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitpod/gitpod-original-wordmark.svg" title="Gitpod" alt="Gitpod" width="40" height="40" />
+&nbsp;
+<!-- Next.js -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-plain.svg" title="Next.js" alt="Next.js" width="40" height="40" />
+&nbsp;
+<!-- Node.js -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js" alt="Node.js" width="40" height="40" />
+&nbsp;
+<!-- Mocha -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mocha/mocha-original.svg" title="Mocha" alt="Mocha" width="40" height="40" />
+&nbsp;
+<!-- jQuery -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" title="jQuery" alt="jQuery" width="40" height="40" />
+&nbsp;
+<!-- .NET Core -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" title=".NET Core" alt=".NET Core" width="40" height="40" />
+&nbsp;
+<!-- AI -->
+<img src="https://github.com/posymusic/aicon/blob/main/AI%20icon%20v1.0%20colored.png?raw=true" title="AI" alt="AI" width="40" height="40" />
+&nbsp;
+<!-- Vercel -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original-wordmark.svg" title="Vercel" alt="Vercel" width="60" height="60" />
+&nbsp;
+<!-- Postman -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="40" height="40" />   
  
 </div>
 <br> 
