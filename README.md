@@ -126,7 +126,7 @@
 </a>
 &nbsp;
 <!-- Tableau -->
-<img src="https://cdnl.tblsft.com/sites/default/files/pages/tableau_cmyk_2015.png" title="Tableau" alt="Tableau" width="40" height="40" />
+<img src="https://cdnl.tblsft.com/sites/default/files/pages/tableau_cmyk_2015.png" title="Tableau" alt="Tableau" width="60" height="60" />
 </a>
 &nbsp;
 
