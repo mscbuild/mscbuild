@@ -198,14 +198,14 @@
  <img src="https://github-trophies.vercel.app/?username=mscbuild" alt="GitHub Trophies for mscbuild" class="badge">
   </a>
   <br>
-  </br>
+  <br>
 <!-- Profile Views Counter -->
   <a href="https://github.com/mscbuild" target="_blank">
   <img src="https://komarev.com/ghpvc/?username=mscbuild" alt="Profile views for mscbuild" class="badge">
   </a>
 <a href="https://github.com/mscbuild"><img src="https://img.shields.io/badge/AI-Code%20Assist-EB9FDA"></a>
 <br>
-</br>
+<br>
 **I'm an early** 🐤
 
 🌞 Morning    95 commits     ███████░░░░░░░░░░░░░░░░░░   30.55% 
