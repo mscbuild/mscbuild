@@ -256,11 +256,22 @@ src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postma
 </details>
 <br>
  <!-- Footer -->
-  <footer>
-    <center>Powered by <a href="https://mscbuild.github.io/mscbuild/" target="_blank" style="color: #3498db;">@Mscbuild</a> & 
-    <a href="https://mscbuild.github.io/mscbuild/" target="_blank" style="color: #3498db;">Profile View</a><br>
-    © 2025 mscbuild — This profile is optimized for GitHub README.</center>
-  </footer>
+ <footer>
+        <div class="footer-content">
+            <div class="footer-logo">BizCon 2023</div>
+            <p>Business Innovation Conference</p>
+            <ul class="footer-links">
+                <li><a href="#home">Home</a></li>
+                <li><a href="#register">Register</a></li>
+                <li><a href="#schedule">Schedule</a></li>
+                <li><a href="#speakers">Speakers</a></li>
+                <li><a href="#">Contact</a></li>
+            </ul>
+            <div class="copyright">
+                &copy; 2023 Business Innovation Conference. All rights reserved.
+            </div>
+        </div>
+    </footer>
  
 <!---
 mscbuild/mscbuild is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
