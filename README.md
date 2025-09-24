@@ -257,7 +257,7 @@ src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postma
 <br>
  <!-- Footer -->
     <footer>
-    © 2025 mscbuild — This profile is optimized for GitHub README. 
+    © 2025 mscbuild — This profile is optimized for GitHub README.<br>
                     Powered by <a href="https://mscbuild.github.io/mscbuild/" target="_blank" style="color: #3498db;"> @mscbuild</a><br>
   </footer>
  
