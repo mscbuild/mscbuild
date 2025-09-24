@@ -2,7 +2,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="keywords" content="Latvia, github, github actions, awesome, creative, designer, mscbuild, developer,  как красиво оформить профиль, социальные сети, коммиты, репозиторий, карьера в программировании">
+<meta name="keywords" content="Passionate software developer, Latvia, github, github actions, repositories, awesome, creative, designer, mscbuild, developer,  как красиво оформить профиль, социальные сети, коммиты, репозиторий, карьера в программировании">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta http-equiv="ClearType" content="true" />
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" />
@@ -257,7 +257,7 @@ src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postma
 <br>
  <!-- Footer -->
     <footer>
-   Powered by <a href="https://mscbuild.github.io/mscbuild/" target="_blank" style="color: #3498db;"> @mscbuild</a><br>
+  <span>Powered by</span><a href="https://mscbuild.github.io/mscbuild/" target="_blank" style="color: #3498db;"> @mscbuild</a><br>
     © 2025 mscbuild — This profile is optimized for GitHub README. 
   </footer>
  
