@@ -19,7 +19,7 @@
 <li>⭐ Most of my projects are available on "<a href="https://github.com/mscbuild">GitHub</a>"</li>
 <li>🛠️ I participate in projects on Github, contributing to the global development of developers</li>
 <li>🚀 Open-source contributor</li>
-<li>🏆 Participating in the "<a href="https://www.kaggle.com/competitions">Kaggle</a>"Machine Learning or Data Science competition </li>
+<li>🏆 Participating in the "<a href="https://www.kaggle.com/competitions">Kaggle</a>" Machine Learning or Data Science competition </li>
 <li>🔒 Monitoring and analytics of network security of web applications</li>
 </ul>
 <p dir="auto">Passionate software developer from Latvia, specializing in Web Developement &Designer and Data Analysis, creating digital experiences that matter. I create code to meet specific needs and share my experiences online.</p>
