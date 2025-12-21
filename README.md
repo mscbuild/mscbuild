@@ -204,7 +204,6 @@
   <a href="https://github.com/mscbuild" target="_blank">
   <img src="https://komarev.com/ghpvc/?username=mscbuild" alt="Profile views for mscbuild" class="badge">
   </a>
-<a href="https://github.com/mscbuild"><img src="https://img.shields.io/badge/AI-Code%20Assist-EB9FDA"></a>
 <br>
 <br>
 **I'm an early** 🐤
