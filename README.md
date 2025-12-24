@@ -2,12 +2,12 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="keywords" content="Passionate software developer, Latvia, github, github actions, repositories, awesome, creative, designer, mscbuild, developer,  как красиво оформить профиль, социальные сети, коммиты, репозиторий, карьера в программировании">
+<meta name="keywords" content="Passionate software developer, Latvia, github, github actions, repositories, awesome, creative, designer, mscbuild, developer, modern, python, E-Learning, 3D, website, portfolio, как красиво оформить профиль, социальные сети, коммиты, репозиторий, карьера в программировании">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta http-equiv="ClearType" content="true" />
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" />
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent"/> 
- <title>Mscbuild</title>
+ 
 </head>
 <body>
 <article class="markdown-body entry-content container-lg f5" itemprop="text"><div class="markdown-heading" dir="auto"><h1 align="center" class="heading-element" dir="auto">Hey, I'm Yuri! 👋</h1><a id="user-content-hey-im-vijay-" class="anchor" aria-label="Permalink: Hey, I'm Yuri! 👋" href="#hey-im-yuri-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
