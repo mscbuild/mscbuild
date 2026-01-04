@@ -235,7 +235,7 @@ src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postma
 </details>
 <details> 
 <summary><b>☄️ Github Streaks</b></summary>
- <img src="https://github-readme-streak-stats.herokuapp.com?user=mscbuild&hide_border=%D0%9B%D0%9E%D0%96%D0%AC&short_numbers=%D0%9B%D0%9E%D0%96%D0%AC" alt="GitHub Streak" /></a> 
+ <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=pranesh-2005" alt="GitHub Streak" /></a> 
  </details>
  <details> 
 <summary><b>📊 Recent Activity</b></summary>
