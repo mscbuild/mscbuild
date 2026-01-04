@@ -232,7 +232,7 @@ src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postma
 <details>
 <summary><b>⚡ Github Stats</b></summary>
 <img src="https://github-readme-stats-fast.vercel.app/api?username=mscbuild&show_icons=true" alt="mscbuild's GitHub Stats" />
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mscbuild&layout=compact" alt="mscbuild's Top Languages" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mscbuild&layout=true" alt="mscbuild's Top Languages" />
 </details>
 <details> 
 <summary><b>☄️ Github Streaks</b></summary>
