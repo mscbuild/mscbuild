@@ -231,7 +231,7 @@ src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postma
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/2722992d519a722218f896d5f5231d49f337aaff4514e78bd59ac935334e916a/68747470733a2f2f692e696d6775722e636f6d2f77617856496d762e706e67"><img src="https://camo.githubusercontent.com/2722992d519a722218f896d5f5231d49f337aaff4514e78bd59ac935334e916a/68747470733a2f2f692e696d6775722e636f6d2f77617856496d762e706e67" alt="" data-canonical-src="https://i.imgur.com/waxVImv.png" style="max-width: 100%;"></a>
 <details>
 <summary><b>⚡ Github Stats</b></summary>
-<img src="https://raw.githubusercontent.com/mscbuild/github-stats/master/generated/languages.svg#gh-light-mode-onlye" 
+ 
 ![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-light-mode-only)
  
