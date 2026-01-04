@@ -10,7 +10,38 @@
  
 </head>
 <body>
-<article class="markdown-body entry-content container-lg f5" itemprop="text"><div class="markdown-heading" dir="auto"><h1 align="center" class="heading-element" dir="auto">Hey, I'm Yuri! 👋</h1><a id="user-content-hey-im-vijay-" class="anchor" aria-label="Permalink: Hey, I'm Yuri! 👋" href="#hey-im-yuri-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<template class="js-line-alert-template">
+  <span aria-label="This line has hidden Unicode characters" data-view-component="true" class="line-alert tooltipped tooltipped-e">
+    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-alert">
+    <path d="M6.457 1.047c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0 1 14.082 15H1.918a1.75 1.75 0 0 1-1.543-2.575Zm1.763.707a.25.25 0 0 0-.44 0L1.698 13.132a.25.25 0 0 0 .22.368h12.164a.25.25 0 0 0 .22-.368Zm.53 3.996v2.5a.75.75 0 0 1-1.5 0v-2.5a.75.75 0 0 1 1.5 0ZM9 11a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z"></path>
+</svg>
+</span></template>
+
+  <table data-hpc class="highlight tab-size js-file-line-container" data-tab-size="4" data-paste-markdown-skip data-tagsearch-path="I&#39;m an early 🐤">
+        <tr>
+          <td id="file-i-m-an-early-L1" class="blob-num js-line-number js-blob-rnum" data-line-number="1"></td>
+          <td id="file-i-m-an-early-LC1" class="blob-code blob-code-inner js-file-line">🌞 Morning    57 commits  ███▊░░░░░░░░░░░░░░░░░  17.9%</td>
+        </tr>
+        <tr>
+          <td id="file-i-m-an-early-L2" class="blob-num js-line-number js-blob-rnum" data-line-number="2"></td>
+          <td id="file-i-m-an-early-LC2" class="blob-code blob-code-inner js-file-line">🌆 Daytime   189 commits  ████████████▍░░░░░░░░  59.4%</td>
+        </tr>
+        <tr>
+          <td id="file-i-m-an-early-L3" class="blob-num js-line-number js-blob-rnum" data-line-number="3"></td>
+          <td id="file-i-m-an-early-LC3" class="blob-code blob-code-inner js-file-line">🌃 Evening    69 commits  ████▌░░░░░░░░░░░░░░░░  21.7%</td>
+        </tr>
+        <tr>
+          <td id="file-i-m-an-early-L4" class="blob-num js-line-number js-blob-rnum" data-line-number="4"></td>
+          <td id="file-i-m-an-early-LC4" class="blob-code blob-code-inner js-file-line">🌙 Night       3 commits  ▏░░░░░░░░░░░░░░░░░░░░   0.9%</td>
+        </tr>
+  </table>
+</div>
+
+
+    </div>
+
+  </div>
+</div>
 <div class="markdown-heading" dir="auto"><h2 class="heading-element" dir="auto">About Me</h2><a id="user-content-about-me" class="anchor" aria-label="Permalink: About Me" href="#about-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
 <ul dir="auto">
 <li>🧑🏻‍💻 Full Stack Web Developer</li>
