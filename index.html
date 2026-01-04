@@ -5,151 +5,39 @@
   <title>JR.dev | Portfolio</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-  <!-- Tailwind CDN -->
+  <!-- Tailwind -->
   <script src="https://cdn.tailwindcss.com"></script>
 
-  <!-- Dark mode config -->
+  <!-- AOS -->
+  <link href="https://unpkg.com/aos@2.3.4/dist/aos.css" rel="stylesheet" />
+
   <script>
     tailwind.config = {
-      darkMode: 'class',
-      theme: {
-        extend: {
-          animation: {
-            fade: 'fadeIn 1s ease-out',
-            float: 'float 3s ease-in-out infinite'
-          },
-          keyframes: {
-            fadeIn: {
-              '0%': { opacity: 0, transform: 'translateY(10px)' },
-              '100%': { opacity: 1, transform: 'translateY(0)' }
-            },
-            float: {
-              '0%, 100%': { transform: 'translateY(0)' },
-              '50%': { transform: 'translateY(-6px)' }
-            }
-          }
-        }
-      }
+      darkMode: 'class'
     }
   </script>
 </head>
 
 <body class="bg-slate-50 text-slate-900 dark:bg-slate-900 dark:text-slate-100 transition-colors duration-300">
 
-<!-- Header -->
-<header class="text-center py-16 px-6 animate-fade">
-  <h1 class="text-4xl md:text-5xl font-bold mb-4">😎 I'm JR.dev</h1>
-  <p class="text-lg text-slate-600 dark:text-slate-400">
-    Digital Craftsman — Full Stack Developer
-  </p>
+<!-- NAVBAR -->
+<nav class="fixed top-0 w-full z-50 backdrop-blur bg-white/70 dark:bg-slate-900/70 border-b border-slate-200 dark:border-slate-700">
+  <div class="max-w-7xl mx-auto px-6 py-3 flex justify-between items-center">
+    <span class="font-bold text-lg">JR.dev</span>
 
-  <!-- Toggle -->
-  <button
-    onclick="toggleTheme()"
-    class="mt-6 px-4 py-2 rounded-lg bg-slate-200 dark:bg-slate-700 hover:scale-105 transition"
-  >
-    🌗 Toggle theme
-  </button>
-</header>
+    <div class="hidden md:flex gap-6 text-sm">
+      <a href="#about" class="hover:text-blue-500">About</a>
+      <a href="#projects" class="hover:text-blue-500">Projects</a>
+      <a href="#blog" class="hover:text-blue-500">Blog</a>
+      <a href="#contact" class="hover:text-blue-500">Contact</a>
+    </div>
 
-<!-- About -->
-<section class="max-w-5xl mx-auto px-6 py-12 animate-fade">
-  <h2 class="text-3xl font-semibold mb-6">About Me</h2>
-
-  <ul class="grid sm:grid-cols-2 gap-4 text-lg">
-    <li>🧑🏻‍💻 Full Stack Developer</li>
-    <li>🔥 UI / UX Designer</li>
-    <li>🌐 Digital enthusiast</li>
-    <li>📚 Learning DevSecOps & Data Science</li>
-    <li>🚀 Open-source contributor</li>
-    <li>⭐ GitHub projects</li>
-  </ul>
-
-  <p class="mt-6 text-slate-600 dark:text-slate-400">
-    Passionate software developer from Latvia, building modern web apps,
-    dashboards and clean UI experiences.
-  </p>
-</section>
-
-<!-- Skills -->
-<section class="max-w-5xl mx-auto px-6 py-12">
-  <h2 class="text-3xl font-semibold mb-6 text-center">🔥 Tech Stack</h2>
-
-  <div class="flex flex-wrap justify-center gap-4">
-    <!-- icon -->
-    <img class="w-10 h-10 animate-float hover:scale-110 transition"
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
-    <img class="w-10 h-10 animate-float hover:scale-110 transition"
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
-    <img class="w-10 h-10 animate-float hover:scale-110 transition"
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
-    <img class="w-10 h-10 animate-float hover:scale-110 transition"
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
-    <img class="w-10 h-10 animate-float hover:scale-110 transition"
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
-    <img class="w-10 h-10 animate-float hover:scale-110 transition"
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
-    <img class="w-10 h-10 animate-float hover:scale-110 transition"
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
-    <img class="w-10 h-10 animate-float hover:scale-110 transition"
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" />
+    <button onclick="toggleTheme()" class="px-3 py-1 rounded bg-slate-200 dark:bg-slate-700">
+      🌗
+    </button>
   </div>
-</section>
+</nav>
 
-<!-- GitHub -->
-<section class="max-w-5xl mx-auto px-6 py-12 text-center">
-  <h2 class="text-3xl font-semibold mb-6">🏆 GitHub</h2>
+<!-- HERO -->
+<header clas
 
-  <div class="flex flex-col md:flex-row justify-center gap-6">
-    <img
-      class="rounded-lg shadow-lg"
-      src="https://github-trophies.vercel.app/?username=mscbuild"
-    />
-    <img
-      class="rounded-lg shadow-lg"
-      src="https://komarev.com/ghpvc/?username=mscbuild"
-    />
-  </div>
-</section>
-
-<!-- Links -->
-<section class="max-w-5xl mx-auto px-6 py-12 text-center">
-  <h3 class="text-2xl font-semibold mb-6">Where to find me</h3>
-
-  <div class="flex flex-wrap justify-center gap-4">
-    <a href="https://github.com/mscbuild" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-12100E?style=for-the-badge&logo=github&logoColor=white">
-    </a>
-    <a href="https://www.linkedin.com/in/jurijsrck" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-    </a>
-    <a href="https://codepen.io/jrck" target="_blank">
-      <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white">
-    </a>
-  </div>
-</section>
-
-<!-- Footer -->
-<footer class="text-center py-8 text-sm text-slate-500 dark:text-slate-400">
-  © 2025 mscbuild — GitHub Pages<br>
-  Powered by <a class="text-blue-400 hover:underline" href="https://mscbuild.github.io/mscbuild/">@mscbuild</a>
-</footer>
-
-<!-- Theme Script -->
-<script>
-  const root = document.documentElement
-  const savedTheme = localStorage.getItem('theme')
-
-  if (savedTheme === 'dark') root.classList.add('dark')
-
-  function toggleTheme() {
-    root.classList.toggle('dark')
-    localStorage.setItem(
-      'theme',
-      root.classList.contains('dark') ? 'dark' : 'light'
-    )
-  }
-</script>
-
-</body>
-</html>
