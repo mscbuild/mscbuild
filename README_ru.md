@@ -12,7 +12,7 @@
 <body>
 <template class="js-line-alert-template">
  <table align="right">
- <tbody><tr><td><a href="/mscbuild/mscbuild/blob/main/README.md"><img src="/brunotacca/brunotacca/raw/main/images/us-flag.png" height="13" style="max-width: 100%; height: auto; max-height: 13px;"> English</a></td></tr>
+ <tbody><tr><td><a href="README.md"><img src="/brunotacca/brunotacca/raw/main/images/us-flag.png" height="13" style="max-width: 100%; height: auto; max-height: 13px;"> English</a></td></tr>
  <tr><td><a href="/mscbuild/mscbuild/blob/main/README_ru.md"><img src="/brunotacca/brunotacca/raw/main/images/fr-flag.png" height="13" style="max-width: 100%; height: auto; max-height: 13px;"> Russia</a></td></tr>
  <tr><td><a href="/brunotacca/brunotacca/blob/main/README_pt.md"><img src="/brunotacca/brunotacca/raw/main/images/br-flag.png" height="13" style="max-width: 100%; height: auto; max-height: 13px;"> Português</a></td></tr>
 </tbody></table>
