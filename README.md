@@ -232,8 +232,8 @@ src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postma
 <details>
 <summary><b>⚡ Github Stats</b></summary>
  
-![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/mscbuild/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/mscbuild/github-stats/master/generated/overview.svg#gh-light-mode-only)
  
 </details>
 <details> 
