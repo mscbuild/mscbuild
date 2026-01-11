@@ -1,4 +1,4 @@
-<html lang="ry">
+<html lang="en">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -12,37 +12,37 @@
 <body>
  
 <div class="markdown-heading" dir="auto"><h1 class="heading-element" dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/6bc659a07891421494f7b9fcc9d849feee45291dfdb693de0d3d029367fec633/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330"><img src="https://camo.githubusercontent.com/6bc659a07891421494f7b9fcc9d849feee45291dfdb693de0d3d029367fec633/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="30" data-animated-image="" data-canonical-src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" style="max-width: 100%;"></a> ɪ'ᴍ JR.dev!</h1><a id="user-content--ɪᴍ-ᴋɪʀᴀɴ" class="anchor" aria-label="Permalink:  ɪ'ᴍ ᴋɪʀᴀɴ!" href="#-ɪᴍ-ᴋɪʀᴀɴ"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
-<p dir="auto"><em>Цифровой специалист (разработчик/программист)</em>
+<p dir="auto"><em>Digital Specialist (Developer/Programmer)</em>
 <br></p>
 <div class="markdown-heading" dir="auto"><h2 class="heading-element" dir="auto">About Me</h2><a id="user-content-about-me" class="anchor" aria-label="Permalink: About Me" href="#about-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
 <ul dir="auto">
-<li>🧑🏻‍💻 Разработчик веб-приложений полного цикла</li>
-<li>🔥 UI/UX Дизайнер</li>
-<li>🌐 Цифровой энтузиаст</li>
-<li>📚 Постоянное изучение и освоение новых методов анализа данных.</li>
-<li>⭐ Большинство моих проектов доступны на"<a href="https://github.com/mscbuild">GitHub</a>"</li>
-<li>🛠️ Я участвую в проектах на Github, внося свой вклад в глобальное развитие разработчиков.</li>
-<li>🚀 Участник проектов с открытым исходным кодом</li>
-<li>🏆 Участие в "<a href="https://www.kaggle.com/competitions">Kaggle</a>" Конкурс по машинному обучению или науке о данных </li>
-<li>⭐ Создание и редактирование"<a href="https://codepen.io/jrck">CodePen</a>" фрагменты кода HTML, CSS и JavaScript </li>
-<li>🔒 Мониторинг и анализ сетевой безопасности веб-приложений.</li>
+<li>🧑🏻‍💻 A full-stack developer</li>
+<li>🔥 UI/UX Designer</li>
+<li>🌐 Digital enthusiast</li>
+<li>📚 Continuously learning and mastering new methods of data analysis.</li>
+<li>⭐ Most of my projects are available on"<a href="https://github.com/mscbuild">GitHub</a>"</li>
+<li>🛠️ I contribute to projects on Github, contributing to the global development of developers.</li>
+<li>🚀 Open source project contributor</li>
+<li>🏆 Participation in "<a href="https://www.kaggle.com/competitions">Kaggle</a>" Machine Learning or Data Science Competition </li>
+<li>⭐ Creation and editing"<a href="https://codepen.io/jrck">CodePen</a>" HTML, CSS, and JavaScript code snippets</li>
+<li>🔒 Monitoring and analysis of network security of web applications.</li>
 </ul>
-<p dir="auto">Страстный разработчик программного обеспечения из Латвии, специализирующийся на веб-разработке и дизайне, а также анализе данных, создающий значимые цифровые решения. Я пишу код для решения конкретных задач и делюсь своим опытом в интернете.</p>
-<div class="markdown-heading" dir="auto"><h2 class="heading-element" dir="auto">Основные моменты 🌟</h2><a id="user-content-highlights-" class="anchor" aria-label="Permalink: Highlights 🌟" href="#highlights-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto">A passionate software developer from Latvia, specializing in web development and design, as well as data analysis, creating meaningful digital solutions. I write code to solve specific problems and share my expertise online.</p>
+<div class="markdown-heading" dir="auto"><h2 class="heading-element" dir="auto">Key points 🌟</h2><a id="user-content-highlights-" class="anchor" aria-label="Permalink: Highlights 🌟" href="#highlights-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
 <ul dir="auto">
-<li>🔭 Сейчас я работаю над кое-чем интересным. 😉</li>
-<li>🌱 Обучение: <strong>DevSecOps</strong></li>
-<li>👯 Открыт для сотрудничества в проектах по веб-разработке, дизайну и анализу данных.</li>
-<li>📧 Связаться со мной "<a href="https://goo.su/Ggk7f">Контакт</a>"</li>
-<li>👨‍💻 Подробнее о моих проектах: "<a href="https://github.com/mscbuild">GitHub</a>"</li>
-<li>💬 Спрашивайте меня о моих блогах или о технических темах.</li>
-<li>⚡  Интересный факт: большую часть времени я провожу за своим гаджетом!</li>
+<li>🔭 I'm working on something interesting right now. 😉</li>
+<li>🌱 Education: <strong>DevSecOps</strong></li>
+<li>👯 Open to collaboration on web development, design and data analysis projects.</li>
+<li>📧 Contact me "<a href="https://goo.su/Ggk7f">Contact</a>"</li>
+<li>👨‍💻 More about my projects: "<a href="https://github.com/mscbuild">GitHub</a>"</li>
+<li>💬 Ask me about my blogs or technical topics.</li>
+<li>⚡ Interesting fact: I spend most of my time on my gadget!</li>
 </ul>
  <div class="markdown-heading" dir="auto"><h2 class="heading-element" dir="auto">Growth Mindset 📈</h2><a id="user-content-about-me" class="anchor" aria-label="Permalink: About Me" href="#about-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
  <ul dir="auto">
-<li>🎡 Сохраняю любопытство и стремлюсь к непрерывному обучению.</li>
-<li>⚡️ Слежу за новыми тенденциями в сфере технологий, чтобы адаптироваться и внедрять инновации..</li>
-<li>🏆 Стремление к совершенству во всех начинаниях..</li> 
+<li>🎡 I remain curious and strive for continuous learning.</li>
+<li>⚡️ I keep up with new trends in technology to adapt and innovate.</li>
+<li>🏆 Striving for excellence in all endeavors.</li> 
 </ul>
  <br>
  <div class="markdown-heading" dir="auto"><h2 align="center" class="heading-element" dir="auto">🔥 Languages &amp; Frameworks &amp; Tools &amp; Abilities 🔥</h2><a id="user-content--languages--frameworks--tools--abilities-" class="anchor" aria-label="Permalink: 🔥 Languages &amp; Frameworks &amp; Tools &amp; Abilities 🔥" href="#-languages--frameworks--tools--abilities-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
