@@ -255,7 +255,7 @@ src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postma
  </details> 
  <details> 
 <summary><b>⚡ Metrics</b></summary>
-![Metrics](https://metrics.lecoq.io/mscbuild?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Europe%2FRiga)
+ <a target="_blank" rel="noopener noreferrer" href="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.reactions.svg"><img src="https://github.com/lowlighter/metrics/raw/examples/metrics.plugin.reactions.svg" alt="" style="max-width: 100%;"></a>
 </details>
 <br>
  <!-- Footer -->
