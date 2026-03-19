@@ -255,7 +255,11 @@ src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postma
  </details> 
  <details> 
 <summary><b>⚡ Metrics</b></summary>
- <a target="_blank" rel="noopener noreferrer" href="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.reactions.svg"><img src="https://github.com/lowlighter/metrics/raw/examples/metrics.plugin.reactions.svg" alt="" style="max-width: 100%;"></a>
+ <a target="_blank" rel="noopener noreferrer" href="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.reactions.svg"><img src="https://github.com/lowlighter/metrics/raw/examples/metrics.plugin.reactions.svg" alt="mscbuild metrics" style="max-width: 100%;"></a>
+</details>
+<details>
+ <summary><b> Pagespeed</b></summary>
+ <img src="https://github.com/lowlighter/metrics/raw/examples/metrics.plugin.pagespeed.svg" alt="" style="max-width: 100%;">
 </details>
 <br>
  <!-- Footer -->
