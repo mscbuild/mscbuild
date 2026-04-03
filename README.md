@@ -26,7 +26,7 @@
 <li>🛠️ I contribute to projects on Github, contributing to the global development of developers.</li>
 <li>🚀 Open source project contributor</li>
 <li>🏆 Participation in "<a href="https://www.kaggle.com/competitions">Kaggle</a>" Machine Learning or Data Science Competition </li>
-<li>👨‍💻 My Tableau Projects are at: "<a href="https://public.tableau.com/app/profile/jurijsrck/vizzes">Tableau</a>" Leading business intelligence and data visualization platform</li>
+<li>👨‍💻 Creating interactive dashboards "<a href="https://public.tableau.com/app/profile/jurijsrck/vizzes">Tableau</a>" Leading business intelligence and data visualization platform</li>
 <li>⭐ Creation and editing"<a href="https://codepen.io/jrck">CodePen</a>" HTML, CSS, and JavaScript code snippets</li>
 <li>🔒 Monitoring and analysis of network security of web applications.</li>
 <li>💰 The contributor platform behind frontier AI "<a href="https://shipd.ai">Eris</a>"where ML engineers create and solve benchmark challenges that evaluate the next generation of AI systems</li>
