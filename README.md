@@ -162,6 +162,7 @@ mscbuild/mscbuild is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 <!--
-keywords: mscbuild, developer, mscbuild design, mscbuild soft, mscbuild automation, mscbuild readme, python, mscbuild profile
+keywords: mscbuild, developer, mscbuild design, mscbuild soft, mscbuild automation, mscbuild readme, python, mscbuild profile, latvian,
+Latvia, readme, awesome repo, creative proyect, best star
 -->
 
