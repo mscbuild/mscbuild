@@ -88,6 +88,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain-wordmark.svg" title="Android" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-plain.svg" title="Next.js" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js" width="40"/>
+<img src="https://www.readmecodegen.com/api/social-icon?name=Angular" alt="Angular" width="40" />
 
 </div>
  
