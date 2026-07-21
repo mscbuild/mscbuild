@@ -88,6 +88,10 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain-wordmark.svg" title="Android" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-plain.svg" title="Next.js" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js" width="40"/>
+<img src="https://www.readmecodegen.com/api/social-icon?name=fastapi&size=96" alt="fastapi" width="40"/>
+<img src="https://www.readmecodegen.com/api/social-icon?name=freecodecamp&size=96" alt="freecodecamp" width="40" />
+<img src="https://www.readmecodegen.com/api/social-icon?name=codepen&size=96" alt="codepen" width="40" />
+<img src="https://www.readmecodegen.com/api/social-icon?name=typescript&size=96" alt="typescript" width="40" />
 <img src="https://www.readmecodegen.com/api/social-icon?name=Angular" alt="Angular" width="40" />
 
 </div>
