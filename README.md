@@ -175,6 +175,6 @@ You can click the Preview link to take a look at your changes.
 --->
 <!--
 keywords: mscbuild, developer, mscbuild design, mscbuild soft, mscbuild automation, mscbuild readme, python, mscbuild profile, latvian,
-Latvia, readme, awesome repo, creative proyect, best star, ai agent, money, securety, code securety, open-sorce
+Latvia, readme, awesome repo, creative proyect, best star, ai agent, money, securety, code securety, open-sorce, awesome, stars, actions
 -->
 
