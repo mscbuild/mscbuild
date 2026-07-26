@@ -99,6 +99,7 @@
 <img src="https://www.readmecodegen.com/api/social-icon?name=codepen&size=96" title="codepen" width="40" />
 <img src="https://www.readmecodegen.com/api/social-icon?name=typescript&size=96" title="typescript" width="40" />
 <img src="https://www.readmecodegen.com/api/social-icon?name=Angular" title="Angular" width="40" />
+<img src="https://www.readmecodegen.com/api/social-icon?name=pwa" title="pwa" width="40"  />
 
 </div>
  
