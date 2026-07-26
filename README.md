@@ -95,12 +95,12 @@
 <img src="https://www.readmecodegen.com/api/social-icon?name=tryhackme" title="tryhackme" width="40"/>
 <img src="https://www.readmecodegen.com/api/social-icon?name=kaggle" title="kaggle" width="40"/>
 <img src="https://www.readmecodegen.com/api/social-icon?name=fastapi&size=96" title="fastapi" width="40"/>
-<img src="https://www.readmecodegen.com/api/social-icon?name=freecodecamp&size=96" title="freecodecamp" width="40" />
+<img src="https://www.readmecodegen.com/api/social-icon?name=freecodecamp&size=96" title="freecodecamp" width="40"/>
 <img src="https://www.readmecodegen.com/api/social-icon?name=codepen&size=96" title="codepen" width="40" />
-<img src="https://www.readmecodegen.com/api/social-icon?name=typescript&size=96" title="typescript" width="40" />
-<img src="https://www.readmecodegen.com/api/social-icon?name=Angular" title="Angular" width="40" />
-<img src="https://www.readmecodegen.com/api/social-icon?name=pwa" title="pwa" width="40"  />
-
+<img src="https://www.readmecodegen.com/api/social-icon?name=typescript&size=96" title="typescript" width="40"/>
+<img src="https://www.readmecodegen.com/api/social-icon?name=Angular" title="Angular" width="40"/>
+<img src="https://www.readmecodegen.com/api/social-icon?name=pwa" title="pwa" width="40"/>
+<img src="https://www.readmecodegen.com/api/social-icon?name=php&size=96" title="php" width="40"/>
 </div>
  
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/2722992d519a722218f896d5f5231d49f337aaff4514e78bd59ac935334e916a/68747470733a2f2f692e696d6775722e636f6d2f77617856496d762e706e67"><img src="https://camo.githubusercontent.com/2722992d519a722218f896d5f5231d49f337aaff4514e78bd59ac935334e916a/68747470733a2f2f692e696d6775722e636f6d2f77617856496d762e706e67" alt="" data-canonical-src="https://i.imgur.com/waxVImv.png" style="max-width: 100%;"> 
