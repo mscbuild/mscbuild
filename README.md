@@ -58,7 +58,7 @@
   gap: 15px;
 ">
 
-<p align="left">
+<p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" title="Java" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" title="React" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" title="Figma" width="40"/>
@@ -69,7 +69,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" width="40"/>
 </p>
 
-<p align="left">
+<p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML5" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" width="40"/>
@@ -80,7 +80,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" width="40"/>
 </p>
 
-<p align="left">
+<p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" title="Git" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" title="WordPress" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cloudflare/cloudflare-original-wordmark.svg" title="Cloudflare" width="40"/>
@@ -91,7 +91,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original-wordmark.svg" title="Google" width="40"/>
 </p>
 
-<p align="left">
+<p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/woocommerce/woocommerce-original-wordmark.svg" title="WooCommerce" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" title="Markdown" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" title="R" width="40"/>
@@ -100,7 +100,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js" width="40"/>
 </p>
 
-<p align="left">
+<p align="center">
   <img src="https://www.readmecodegen.com/api/social-icon?name=hackerrank" title="HackerRank" width="40"/>
   <img src="https://www.readmecodegen.com/api/social-icon?name=coder" title="Coder" width="40"/>
   <img src="https://www.readmecodegen.com/api/social-icon?name=tailwindcss&size=96" title="Tailwind CSS" width="40"/>
@@ -111,7 +111,7 @@
   <img src="https://www.readmecodegen.com/api/social-icon?name=freecodecamp&size=96" title="freeCodeCamp" width="40"/>
 </p>
 
-<p align="left">
+<p align="center">
   <img src="https://www.readmecodegen.com/api/social-icon?name=codepen&size=96" title="CodePen" width="40"/>
   <img src="https://www.readmecodegen.com/api/social-icon?name=typescript&size=96" title="TypeScript" width="40"/>
   <img src="https://www.readmecodegen.com/api/social-icon?name=Angular" title="Angular" width="40"/>
