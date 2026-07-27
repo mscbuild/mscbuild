@@ -140,7 +140,7 @@
   <img src="https://komarev.com/ghpvc/?username=mscbuild" alt="Profile views for mscbuild" class="badge">
 </a>
 <br>
- 
+ <h1>Where to find me</h1>
 <div data-importer="socials" align="center"> 
 <a href="https://www.linkedin.com/in/jurijsrck" rel="nofollow"><img alt="LinkedIn"  src="https://img.shields.io/badge/linkedin-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>  
 <a href="https://www.kaggle.com/jurijsruko" rel="nofollow"><img src="https://img.shields.io/badge/KAGGLE-20BEFF?&amp;style=for-the-badge&amp;logo=kaggle&amp;logoColor=white" style="max-width: 100%;"></a>  
@@ -155,7 +155,8 @@ src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepe
 src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" style="max-width: 100%;"></a>
  <a href="https://badgr.com/public/assertions/xAF8cahgQtuS3jE-0UuO5g" rel="nofollow"><img 
 src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white " style="max-width: 100%;"></a>
-   
+</div>
+
 <details>
 <summary><b>⚡ Github Stats</b></summary>
 <img src="https://github-readme-stats-fast.vercel.app/api?username=mscbuild&show_icons=true" alt="mscbuild's GitHub Stats" />
