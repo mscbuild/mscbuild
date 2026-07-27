@@ -142,7 +142,7 @@
 <br>
  <h1>Where to find me</h1>
 <p dir="auto"><a href="https://www.linkedin.com/in/jurijsrck" rel="nofollow"><img alt="LinkedIn"  src="https://img.shields.io/badge/linkedin-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>  
-<a href="https://www.kaggle.com/jurijsruko" rel="nofollow"><img src="https://img.shields.io/badge/KAGGLE-20BEFF?&amp;style=for-the-badge&amp;logo=kaggle&amp;logoColor=white" style="max-width: 100%;"></a></a>  
+<a href="https://www.kaggle.com/jurijsruko" rel="nofollow"><img src="https://img.shields.io/badge/KAGGLE-20BEFF?&amp;style=for-the-badge&amp;logo=kaggle&amp;logoColor=white" style="max-width: 100%;"></a>  
 <a href="https://github.com/mscbuild" rel="nofollow"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" style="max-width: 100%;"></a>
  <a href="https://codepen.io/jrck" rel="nofollow"><img 
 src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" style="max-width: 100%;"></a>
