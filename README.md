@@ -138,13 +138,15 @@
 <!-- Profile Views Counter -->
   <a href="https://github.com/mscbuild" target="_blank">
   <img src="https://komarev.com/ghpvc/?username=mscbuild" alt="Profile views for mscbuild" class="badge">
+  <img src="https://img.shields.io/github/followers/mscbuild?style=for-the-badge"/>
+  <img src="https://img.shields.io/github/stars/mscbuild?style=for-the-badge"/>
   </a>
 <br>
- ---
+ 
 
 <div align="center">
 
-## 🌐 Connect with me
+<h1>🌐 Connect with me</h1>
 
 <a href="https://www.linkedin.com/in/jurijsrck">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
