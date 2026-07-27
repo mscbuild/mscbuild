@@ -117,7 +117,7 @@
 
   <tr>
     <td align="center"><img src="https://www.readmecodegen.com/api/social-icon?name=php&size=96" width="40"><br>PHP</td>
-    <td></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mocha/mocha-original.svg"   alt="Mocha" width="40"><br>Mocha</td>
     <td></td>
     <td></td>
     <td></td>
