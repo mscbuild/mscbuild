@@ -182,7 +182,6 @@
 
 </div>
 
----
 <details>
 <summary><b>⚡ Github Stats</b></summary>
 <img src="https://github-readme-stats-fast.vercel.app/api?username=mscbuild&show_icons=true" alt="mscbuild's GitHub Stats" />
