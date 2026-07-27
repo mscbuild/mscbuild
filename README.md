@@ -138,9 +138,7 @@
 <!-- Profile Views Counter -->
   <a href="https://github.com/mscbuild" target="_blank">
   <img src="https://komarev.com/ghpvc/?username=mscbuild" alt="Profile views for mscbuild" class="badge">
-  <img src="https://img.shields.io/github/followers/mscbuild?style=for-the-badge"/>
-  <img src="https://img.shields.io/github/stars/mscbuild?style=for-the-badge"/>
-  </a>
+</a>
 <br>
  
 
